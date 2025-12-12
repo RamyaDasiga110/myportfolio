@@ -63,15 +63,15 @@ const Experience = () => {
 };
 
 const experienceItems = [
-  "Worked on Autodesk's initiative to develop a new pricing tool solution aimed at replacing existing Price Management and Price Administration tools, focusing on flexibility, scalability, reduced dependency on back-office development, enhanced productivity, robust reporting capabilities, and historical data retention.",
-  "Spearheaded development of Pricing Willow Application, reducing pricing operation time by 40% through implementation of automated workflows and efficient business model creation processes.",
-  "Engineered and optimized SQL queries resulting in 30% faster data retrieval, handling over 1M+ records for critical pricing operations.",
-  "Implemented automated deployment pipeline using AWS CodePipeline, reducing deployment time by 60% and achieving 96% deployment success rate.",
-  "Developed responsive user interfaces using C# and ASP.NET MVC, improving user satisfaction scores by 25% and reducing support tickets by 35%.",
-  "Resolved 50+ critical bugs and reduced bug backlog by 45% through systematic tracking and prioritization system.",
-  "Created and maintained 10+ cron jobs on Virtual EC2 Servers, ensuring 99% uptime for business-critical applications.",
-  "Collaborated with 3 cross-functional teams to deliver 15+ major features ahead of schedule, receiving recognition for exceptional performance.",
-  "Worked in an Agile environment using JIRA, mentoring two junior developers and promoting best practices in code development and deployment."
+  "Worked on Autodesk's initiative to develop a new pricing tool solution aimed at replacing existing Price Management and Price Administration tools, focusing on flexibility, scalability, reduced dependency on back-office development, enhanced productivity, robust reporting capabilities, and historical data retention",
+  "Spearheaded development of Pricing Willow Application, significantly reducing pricing operation time through implementation of automated workflows and efficient business model creation processes",
+  "Engineered and optimized SQL queries for improved performance, handling over 1M+ records for critical pricing operations",
+  "Implemented automated deployment pipeline using AWS CodePipeline, dramatically reducing deployment time and improving deployment reliability",
+  "Developed responsive user interfaces using C# and ASP.NET MVC, improving user experience and reducing support ticket volume",
+  "Resolved 50+ critical bugs and substantially reduced bug backlog through systematic tracking and prioritization system",
+  "Created and maintained 10+ cron jobs on Virtual EC2 Servers, ensuring high uptime for business-critical applications",
+  "Collaborated with 3 cross-functional teams to deliver 15+ major features ahead of schedule, receiving recognition for exceptional performance",
+  "Worked in an Agile environment using JIRA, mentoring two junior developers and promoting best practices in code development and deployment"
 ];
 
 export default Experience;
